@@ -1,4 +1,4 @@
-# Tableau-DashBoard
+# Tableau-Dashboard
 
 Dashboard for the Product and Sales Analysis for one of the restaurant chains in Hyderabad(Name can't be displayed because of security issue)
 
